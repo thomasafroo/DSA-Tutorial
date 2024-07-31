@@ -1,10 +1,10 @@
 def recursive_binary_search(list, target):
-    if len(list) == 0:
+    if len(list) == 0: # base case
         return False
     else:
         midpoint = len(list)//2
 
-        if list[midpoint] == target:
+        if list[midpoint] == target: # base case
             return True
         else:
             if list[midpoint] < target:
