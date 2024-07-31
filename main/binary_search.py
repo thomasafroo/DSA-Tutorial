@@ -3,7 +3,7 @@ def binary_search(list, target):
     last = len(list) - 1
 
     while first <= last:
-        midpoint = (first + last)//2
+        midpoint = (first + last)//2 # floor division (rounds down to the nearest w.num
 
         if list[midpoint] == target: # best case
             return midpoint
