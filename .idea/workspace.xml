@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="return None">
-      <change beforePath="$PROJECT_DIR$/main/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/binary_search.py" afterDir="false" />
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="recursive version of BS method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/recursive_binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/recursive_binary_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.binary_search.executor": "Run",
     "Python.linear_search.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -208,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722406719627</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="testing">
+      <option name="closed" value="true" />
+      <created>1722406855652</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1722406855652</updated>
+    </task>
+    <task id="LOCAL-00022" summary="recursive version of BS method">
+      <option name="closed" value="true" />
+      <created>1722407002657</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1722407002657</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,6 +240,8 @@
     <MESSAGE value="comment" />
     <MESSAGE value="while" />
     <MESSAGE value="return None" />
-    <option name="LAST_COMMIT_MESSAGE" value="return None" />
+    <MESSAGE value="testing" />
+    <MESSAGE value="recursive version of BS method" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursive version of BS method" />
   </component>
 </project>
