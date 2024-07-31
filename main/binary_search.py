@@ -7,4 +7,8 @@ def binary_search(list, target):
 
         if list[midpoint] == target: # best case
             return midpoint
+        elif list[midpoint] < target:
+            first = midpoint + 1;
+        else:
+            last = midpoint - 1;
 

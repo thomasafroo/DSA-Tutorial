@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="best case" />
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="comment">
+      <change beforePath="$PROJECT_DIR$/main/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/binary_search.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722405757909</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="best case">
+      <option name="closed" value="true" />
+      <created>1722405912736</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1722405912736</updated>
+    </task>
+    <task id="LOCAL-00018" summary="comment">
+      <option name="closed" value="true" />
+      <created>1722406122828</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1722406122828</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +204,7 @@
     <MESSAGE value="new" />
     <MESSAGE value="while" />
     <MESSAGE value="best case" />
-    <option name="LAST_COMMIT_MESSAGE" value="best case" />
+    <MESSAGE value="comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment" />
   </component>
 </project>
