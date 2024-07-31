@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="comment">
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="formatting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/recursive_binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/recursive_binary_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,15 +25,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linear_search.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.binary_search.executor": "Run",
+    "Python.linear_search.executor": "Run",
+    "Python.recursive_binary_search.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -313,7 +315,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722447604870</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="comment">
+      <option name="closed" value="true" />
+      <created>1722453357622</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1722453357622</updated>
+    </task>
+    <task id="LOCAL-00035" summary="formatting">
+      <option name="closed" value="true" />
+      <created>1722453458173</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1722453458173</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -331,6 +349,7 @@
     <MESSAGE value="main" />
     <MESSAGE value="test cases" />
     <MESSAGE value="comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment" />
+    <MESSAGE value="formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="formatting" />
   </component>
 </project>
