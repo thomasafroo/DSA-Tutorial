@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="new">
-      <change beforePath="$PROJECT_DIR$/main/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/binary_search.py" afterDir="false" />
-    </list>
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="best case" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +150,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722405405572</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="new">
+      <option name="closed" value="true" />
+      <created>1722405455259</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722405455259</updated>
+    </task>
+    <task id="LOCAL-00015" summary="while">
+      <option name="closed" value="true" />
+      <created>1722405595180</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722405595180</updated>
+    </task>
+    <task id="LOCAL-00016" summary="best case">
+      <option name="closed" value="true" />
+      <created>1722405757909</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722405757909</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -162,6 +184,8 @@
     <MESSAGE value="function" />
     <MESSAGE value="main" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="while" />
+    <MESSAGE value="best case" />
+    <option name="LAST_COMMIT_MESSAGE" value="best case" />
   </component>
 </project>
