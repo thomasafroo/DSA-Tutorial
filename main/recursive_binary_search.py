@@ -11,3 +11,6 @@ def recursive_binary_search(list, target):
                 return recursive_binary_search(list[midpoint+1:], target) # recursive call
             else:
                 return recursive_binary_search(list[:midpoint], target) # recursive call
+
+def verify(result):
+    print("Target found: ", result)
