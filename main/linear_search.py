@@ -17,3 +17,6 @@ def verify(index):
 numbers = [1,2,3,4,5,6,7,8,9]
 result = linear_search(numbers, 12)
 verify(result)
+
+result = linear_search(numbers, 6)
+verify(result)
