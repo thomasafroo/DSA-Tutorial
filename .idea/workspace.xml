@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="recursive_binary_search.py" />
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="accessing array elements">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/arrays.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -360,7 +363,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722549270795</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="arrays">
+      <option name="closed" value="true" />
+      <created>1722549319968</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1722549319968</updated>
+    </task>
+    <task id="LOCAL-00041" summary="arrays">
+      <option name="closed" value="true" />
+      <created>1722549391333</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1722549391333</updated>
+    </task>
+    <task id="LOCAL-00042" summary="accessing array elements">
+      <option name="closed" value="true" />
+      <created>1722549408545</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1722549408545</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -380,6 +407,8 @@
     <MESSAGE value="comment" />
     <MESSAGE value="formatting" />
     <MESSAGE value="recursive_binary_search.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="recursive_binary_search.py" />
+    <MESSAGE value="arrays" />
+    <MESSAGE value="accessing array elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="accessing array elements" />
   </component>
 </project>
