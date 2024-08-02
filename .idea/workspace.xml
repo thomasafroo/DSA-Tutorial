@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked_list.py formmating">
-      <change beforePath="$PROJECT_DIR$/main/linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/linked_list.py" afterDir="false" />
-    </list>
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked_list.py comment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,78 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00011" summary="main">
-      <option name="closed" value="true" />
-      <created>1722405283160</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1722405283160</updated>
-    </task>
-    <task id="LOCAL-00012" summary="new">
-      <option name="closed" value="true" />
-      <created>1722405389970</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1722405389970</updated>
-    </task>
-    <task id="LOCAL-00013" summary="new">
-      <option name="closed" value="true" />
-      <created>1722405405572</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1722405405572</updated>
-    </task>
-    <task id="LOCAL-00014" summary="new">
-      <option name="closed" value="true" />
-      <created>1722405455259</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1722405455259</updated>
-    </task>
-    <task id="LOCAL-00015" summary="while">
-      <option name="closed" value="true" />
-      <created>1722405595180</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1722405595180</updated>
-    </task>
-    <task id="LOCAL-00016" summary="best case">
-      <option name="closed" value="true" />
-      <created>1722405757909</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1722405757909</updated>
-    </task>
-    <task id="LOCAL-00017" summary="best case">
-      <option name="closed" value="true" />
-      <created>1722405912736</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1722405912736</updated>
-    </task>
-    <task id="LOCAL-00018" summary="comment">
-      <option name="closed" value="true" />
-      <created>1722406122828</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1722406122828</updated>
-    </task>
-    <task id="LOCAL-00019" summary="while">
-      <option name="closed" value="true" />
-      <created>1722406306804</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1722406306804</updated>
     </task>
     <task id="LOCAL-00020" summary="return None">
       <option name="closed" value="true" />
@@ -444,7 +370,79 @@
       <option name="project" value="LOCAL" />
       <updated>1722581184184</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="linked_list.py">
+      <option name="closed" value="true" />
+      <created>1722581219088</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1722581219088</updated>
+    </task>
+    <task id="LOCAL-00061" summary="linked_list.py">
+      <option name="closed" value="true" />
+      <created>1722581310836</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1722581310836</updated>
+    </task>
+    <task id="LOCAL-00062" summary="linked_list.py size">
+      <option name="closed" value="true" />
+      <created>1722581342465</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1722581342465</updated>
+    </task>
+    <task id="LOCAL-00063" summary="linked_list.py size">
+      <option name="closed" value="true" />
+      <created>1722581371186</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1722581371186</updated>
+    </task>
+    <task id="LOCAL-00064" summary="linked_list.py size">
+      <option name="closed" value="true" />
+      <created>1722581405265</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1722581405265</updated>
+    </task>
+    <task id="LOCAL-00065" summary="linked_list.py comment">
+      <option name="closed" value="true" />
+      <created>1722581436986</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1722581436986</updated>
+    </task>
+    <task id="LOCAL-00066" summary="linked_list.py comment">
+      <option name="closed" value="true" />
+      <created>1722581478617</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1722581478617</updated>
+    </task>
+    <task id="LOCAL-00067" summary="linked_list.py comment">
+      <option name="closed" value="true" />
+      <created>1722581502096</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1722581502096</updated>
+    </task>
+    <task id="LOCAL-00068" summary="linked_list.py comment">
+      <option name="closed" value="true" />
+      <created>1722581579518</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1722581579518</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -467,9 +465,10 @@
     <MESSAGE value="arrays" />
     <MESSAGE value="accessing array elements" />
     <MESSAGE value="linked_list.py mistake" />
-    <MESSAGE value="linked_list.py" />
-    <MESSAGE value="linked_list.py comment" />
     <MESSAGE value="linked_list.py formmating" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked_list.py formmating" />
+    <MESSAGE value="linked_list.py" />
+    <MESSAGE value="linked_list.py size" />
+    <MESSAGE value="linked_list.py comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked_list.py comment" />
   </component>
 </project>
