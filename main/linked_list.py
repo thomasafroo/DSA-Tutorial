@@ -13,3 +13,7 @@ class Node:
         return "<Node data: %s>" % self.data
 
 class LinkedList:
+    head = None
+
+    def __init__(self):
+        self.head = None
