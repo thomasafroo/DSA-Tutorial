@@ -23,3 +23,5 @@ class LinkedList:
 
     def is_empty(self):
         return self.head == None
+
+    def size(self):
