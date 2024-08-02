@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="moving" />
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="add method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,14 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00021" summary="testing">
-      <option name="closed" value="true" />
-      <created>1722406855652</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1722406855652</updated>
     </task>
     <task id="LOCAL-00022" summary="recursive version of BS method">
       <option name="closed" value="true" />
@@ -448,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722581619150</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="add method">
+      <option name="closed" value="true" />
+      <created>1722582272079</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1722582272079</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -476,6 +476,7 @@
     <MESSAGE value="linked_list.py size" />
     <MESSAGE value="linked_list.py comment" />
     <MESSAGE value="moving" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving" />
+    <MESSAGE value="add method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add method" />
   </component>
 </project>
