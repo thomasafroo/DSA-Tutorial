@@ -47,13 +47,4 @@ class LinkedList:
         new_node.next_node = self.head
         self.head = new_node
 
-class MyClass(object):
-    i = 123;
-    def __init__(self):
-        self.i = 345;
-
-a = MyClass()
-print(a.i)
-print(MyClass.i)
-
 
