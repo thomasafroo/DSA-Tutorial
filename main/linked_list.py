@@ -28,3 +28,6 @@ class LinkedList:
         current = self.head
         count = 0
 
+        while current:
+            count = count + 1
+
