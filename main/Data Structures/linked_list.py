@@ -32,10 +32,21 @@ class LinkedList:
         count = 0
 
         while current:
-            count = count + 1
+            count+=1
             current = current.next_node
 
         return count
 
-def add(self, data):
-    new_node = Node(data)
+    def add(self, data):
+        new_node = Node(data)
+
+class MyClass(object):
+    i = 123;
+    def __init__(self):
+        self.i = 345;
+
+a = MyClass()
+print(a.i)
+print(MyClass.i)
+
+
