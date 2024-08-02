@@ -65,6 +65,6 @@ class LinkedList:
                 nodes.append("[%s]" % current.data)
 
             current = current.next_node
-
+        return '-> '.join(nodes)
 
 
