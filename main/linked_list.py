@@ -14,6 +14,8 @@ class Node:
 
 class LinkedList:
     head = None
-
+    """
+    Singly Linked List
+    """
     def __init__(self):
         self.head = None
