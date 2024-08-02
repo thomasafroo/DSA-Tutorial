@@ -36,3 +36,6 @@ class LinkedList:
             current = current.next_node
 
         return count
+
+def add(self, data):
+    new_node = Node(data)
