@@ -38,11 +38,14 @@ class LinkedList:
 
         return count
 
-
-def add(self, data):
-    new_node = Node(data)
-    new_node.next_node = self.head
-    self.head = new_node
+    def add(self, data):
+        """
+        Adds a new node containing data at head of the list
+        Takes O(1) time
+        """
+        new_node = Node(data)
+        new_node.next_node = self.head
+        self.head = new_node
 
 class MyClass(object):
     i = 123;
