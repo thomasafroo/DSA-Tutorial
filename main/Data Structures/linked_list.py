@@ -47,6 +47,11 @@ class LinkedList:
         new_node.next_node = self.head
         self.head = new_node
 
+    def search(self, key):
+
+
+
+
     def __repr__(self):
         """
         Return a string representation of the list
@@ -65,6 +70,6 @@ class LinkedList:
                 nodes.append("[%s]" % current.data)
 
             current = current.next_node
-        return '-> '.join(nodes) # the arrow goes in between each node
+        return ' -> '.join(nodes) # the arrow goes in between each node
 
 
