@@ -68,5 +68,3 @@ class LinkedList:
         return '-> '.join(nodes) # the arrow goes in between each node
 
 
-
-
