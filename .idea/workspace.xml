@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="add method" />
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list repr method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,18 +22,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.arrays.executor": "Run",
-    "Python.binary_search.executor": "Run",
-    "Python.linear_search.executor": "Run",
-    "Python.linked_list.executor": "Run",
-    "Python.recursive_binary_search.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linear_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linked_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursive_binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/main/Data Structures" />
@@ -55,86 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00022" summary="recursive version of BS method">
-      <option name="closed" value="true" />
-      <created>1722407002657</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1722407002657</updated>
-    </task>
-    <task id="LOCAL-00023" summary="recursive version of BS method">
-      <option name="closed" value="true" />
-      <created>1722408759466</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1722408759466</updated>
-    </task>
-    <task id="LOCAL-00024" summary="recursive version of BS method">
-      <option name="closed" value="true" />
-      <created>1722408811069</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1722408811070</updated>
-    </task>
-    <task id="LOCAL-00025" summary="recursive version of BS method">
-      <option name="closed" value="true" />
-      <created>1722408902063</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1722408902063</updated>
-    </task>
-    <task id="LOCAL-00026" summary="verify">
-      <option name="closed" value="true" />
-      <created>1722408957433</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1722408957433</updated>
-    </task>
-    <task id="LOCAL-00027" summary="main">
-      <option name="closed" value="true" />
-      <created>1722408986147</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1722408986147</updated>
-    </task>
-    <task id="LOCAL-00028" summary="main">
-      <option name="closed" value="true" />
-      <created>1722409033117</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1722409033117</updated>
-    </task>
-    <task id="LOCAL-00029" summary="test cases">
-      <option name="closed" value="true" />
-      <created>1722409072416</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1722409072416</updated>
-    </task>
-    <task id="LOCAL-00030" summary="test cases">
-      <option name="closed" value="true" />
-      <created>1722409093943</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1722409093943</updated>
-    </task>
-    <task id="LOCAL-00031" summary="test cases">
-      <option name="closed" value="true" />
-      <created>1722409289123</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1722409289123</updated>
     </task>
     <task id="LOCAL-00032" summary="comment">
       <option name="closed" value="true" />
@@ -448,17 +368,90 @@
       <option name="project" value="LOCAL" />
       <updated>1722582272079</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="arrays.py">
+      <option name="closed" value="true" />
+      <created>1722617449087</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1722617449087</updated>
+    </task>
+    <task id="LOCAL-00072" summary="linked list">
+      <option name="closed" value="true" />
+      <created>1722631855696</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1722631855696</updated>
+    </task>
+    <task id="LOCAL-00073" summary="linked list size">
+      <option name="closed" value="true" />
+      <created>1722631889701</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1722631889701</updated>
+    </task>
+    <task id="LOCAL-00074" summary="linked list add node">
+      <option name="closed" value="true" />
+      <created>1722633435166</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1722633435166</updated>
+    </task>
+    <task id="LOCAL-00075" summary="linked list add node">
+      <option name="closed" value="true" />
+      <created>1722634419372</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1722634419373</updated>
+    </task>
+    <task id="LOCAL-00076" summary="linked list unnecessary">
+      <option name="closed" value="true" />
+      <created>1722634463625</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1722634463625</updated>
+    </task>
+    <task id="LOCAL-00077" summary="linked list repr">
+      <option name="closed" value="true" />
+      <created>1722635358927</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1722635358928</updated>
+    </task>
+    <task id="LOCAL-00078" summary="linked list repr method">
+      <option name="closed" value="true" />
+      <created>1722636613082</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1722636613082</updated>
+    </task>
+    <task id="LOCAL-00079" summary="linked list repr method">
+      <option name="closed" value="true" />
+      <created>1722637101184</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1722637101184</updated>
+    </task>
+    <task id="LOCAL-00080" summary="linked list repr method">
+      <option name="closed" value="true" />
+      <created>1722650315416</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1722650315416</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new file" />
-    <MESSAGE value="new function" />
-    <MESSAGE value="for" />
-    <MESSAGE value="function" />
-    <MESSAGE value="new" />
-    <MESSAGE value="best case" />
-    <MESSAGE value="while" />
     <MESSAGE value="return None" />
     <MESSAGE value="testing" />
     <MESSAGE value="recursive version of BS method" />
@@ -477,6 +470,13 @@
     <MESSAGE value="linked_list.py comment" />
     <MESSAGE value="moving" />
     <MESSAGE value="add method" />
-    <option name="LAST_COMMIT_MESSAGE" value="add method" />
+    <MESSAGE value="arrays.py" />
+    <MESSAGE value="linked list" />
+    <MESSAGE value="linked list size" />
+    <MESSAGE value="linked list add node" />
+    <MESSAGE value="linked list unnecessary" />
+    <MESSAGE value="linked list repr" />
+    <MESSAGE value="linked list repr method" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked list repr method" />
   </component>
 </project>
