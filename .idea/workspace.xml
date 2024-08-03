@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list repr method">
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list search method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Data Structures/linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Data Structures/linked_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00034" summary="comment">
-      <option name="closed" value="true" />
-      <created>1722453357622</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1722453357622</updated>
     </task>
     <task id="LOCAL-00035" summary="formatting">
       <option name="closed" value="true" />
@@ -450,11 +443,18 @@
       <option name="project" value="LOCAL" />
       <updated>1722699053185</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="linked list search method">
+      <option name="closed" value="true" />
+      <created>1722710594335</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1722710594335</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="return None" />
     <MESSAGE value="testing" />
     <MESSAGE value="recursive version of BS method" />
     <MESSAGE value="verify" />
@@ -479,6 +479,7 @@
     <MESSAGE value="linked list unnecessary" />
     <MESSAGE value="linked list repr" />
     <MESSAGE value="linked list repr method" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked list repr method" />
+    <MESSAGE value="linked list search method" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked list search method" />
   </component>
 </project>

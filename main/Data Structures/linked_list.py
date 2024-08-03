@@ -48,7 +48,14 @@ class LinkedList:
         self.head = new_node
 
     def search(self, key):
+        current = self.head
 
+        while current:
+            if (current.data == key):
+                return True
+            current = current.next_node
+
+        return None
 
 
 
