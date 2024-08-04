@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list insert formatting">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list remove formatting">
       <change beforePath="$PROJECT_DIR$/main/Data Structures/linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Data Structures/linked_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,14 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00042" summary="accessing array elements">
-      <option name="closed" value="true" />
-      <created>1722549408545</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1722549408545</updated>
     </task>
     <task id="LOCAL-00043" summary="accessing array elements">
       <option name="closed" value="true" />
@@ -451,11 +442,18 @@
       <option name="project" value="LOCAL" />
       <updated>1722809560946</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="linked list remove formatting">
+      <option name="closed" value="true" />
+      <created>1722810194503</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1722810194503</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="main" />
     <MESSAGE value="test cases" />
     <MESSAGE value="comment" />
     <MESSAGE value="formatting" />
@@ -480,6 +478,7 @@
     <MESSAGE value="linked list search method" />
     <MESSAGE value="linked list insert method" />
     <MESSAGE value="linked list insert formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked list insert formatting" />
+    <MESSAGE value="linked list remove formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked list remove formatting" />
   </component>
 </project>
