@@ -63,6 +63,11 @@ class LinkedList:
         return None
 
     def insert(self, data, index):
+        """
+        Inserts a new Node containing data at index position
+        Insertion takes O(1) time but finding the node at the
+        insertion point takes O(n) time.
+        """
         if index == 0:
             self.add(data)
 
@@ -72,8 +77,7 @@ class LinkedList:
             current = self.head
 
             while (position > 1):
-                current = node.next_node
-
+                current = current.next_node
 
     def __repr__(self):
         """

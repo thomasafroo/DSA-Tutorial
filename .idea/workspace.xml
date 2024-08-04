@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list search method">
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list insert method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/Data Structures/linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Data Structures/linked_list.py" afterDir="false" />
     </list>
@@ -58,14 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00039" summary="recursive_binary_search.py">
-      <option name="closed" value="true" />
-      <created>1722549270795</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1722549270795</updated>
     </task>
     <task id="LOCAL-00040" summary="arrays">
       <option name="closed" value="true" />
@@ -451,11 +443,18 @@
       <option name="project" value="LOCAL" />
       <updated>1722718848259</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="linked list insert method">
+      <option name="closed" value="true" />
+      <created>1722806920025</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1722806920025</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="recursive version of BS method" />
     <MESSAGE value="verify" />
     <MESSAGE value="main" />
     <MESSAGE value="test cases" />
@@ -480,6 +479,7 @@
     <MESSAGE value="linked list repr method" />
     <MESSAGE value="linked list search method comment" />
     <MESSAGE value="linked list search method" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked list search method" />
+    <MESSAGE value="linked list insert method" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked list insert method" />
   </component>
 </project>
