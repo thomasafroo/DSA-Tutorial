@@ -56,14 +56,6 @@
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
     </task>
-    <task id="LOCAL-00044" summary="accessing array elements">
-      <option name="closed" value="true" />
-      <created>1722577029787</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1722577029787</updated>
-    </task>
     <task id="LOCAL-00045" summary="accessing array elements">
       <option name="closed" value="true" />
       <created>1722577084010</created>
@@ -448,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722811660176</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="linked list remove formatting">
+      <option name="closed" value="true" />
+      <created>1722811906466</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1722811906466</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
