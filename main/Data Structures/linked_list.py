@@ -131,4 +131,3 @@ class LinkedList:
             current = current.next_node
         return ' -> '.join(nodes) # the arrow goes in between each node
 
-
