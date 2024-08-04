@@ -73,6 +73,7 @@ class LinkedList:
 
         if index > 0:
             new = Node(data)
+
             position = index
             current = self.head
 

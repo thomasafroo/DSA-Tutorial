@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list insert method">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Data Structures/linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Data Structures/linked_list.py" afterDir="false" />
-    </list>
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list insert method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,14 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00040" summary="arrays">
-      <option name="closed" value="true" />
-      <created>1722549319968</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1722549319968</updated>
     </task>
     <task id="LOCAL-00041" summary="arrays">
       <option name="closed" value="true" />
@@ -451,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722806920025</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="linked list insert method">
+      <option name="closed" value="true" />
+      <created>1722809229078</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1722809229078</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
