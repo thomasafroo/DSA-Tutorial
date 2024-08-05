@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Data Structures/linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Data Structures/linked_list.py" afterDir="false" />
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="merge sort">
+      <change beforePath="$PROJECT_DIR$/main/Data Structures/merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Data Structures/merge_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00048" summary="linked_list.py">
-      <option name="closed" value="true" />
-      <created>1722580498553</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1722580498553</updated>
     </task>
     <task id="LOCAL-00049" summary="linked_list.py">
       <option name="closed" value="true" />
@@ -451,11 +442,18 @@
       <option name="project" value="LOCAL" />
       <updated>1722814960769</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="merge sort">
+      <option name="closed" value="true" />
+      <created>1722888780617</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1722888780617</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="comment" />
     <MESSAGE value="formatting" />
     <MESSAGE value="recursive_binary_search.py" />
     <MESSAGE value="arrays" />
@@ -480,6 +478,7 @@
     <MESSAGE value="linked list insert formatting" />
     <MESSAGE value="linked list remove formatting" />
     <MESSAGE value="linked list update" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked list update" />
+    <MESSAGE value="merge sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge sort" />
   </component>
 </project>
