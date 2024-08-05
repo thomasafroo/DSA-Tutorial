@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list remove formatting" />
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked list update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Data Structures/linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Data Structures/linked_list.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,14 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00047" summary="linked_list.py">
-      <option name="closed" value="true" />
-      <created>1722580486618</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1722580486618</updated>
     </task>
     <task id="LOCAL-00048" summary="linked_list.py">
       <option name="closed" value="true" />
@@ -448,11 +443,18 @@
       <option name="project" value="LOCAL" />
       <updated>1722814535220</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="linked list update">
+      <option name="closed" value="true" />
+      <created>1722814960769</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1722814960769</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test cases" />
     <MESSAGE value="comment" />
     <MESSAGE value="formatting" />
     <MESSAGE value="recursive_binary_search.py" />
@@ -477,6 +479,7 @@
     <MESSAGE value="linked list insert method" />
     <MESSAGE value="linked list insert formatting" />
     <MESSAGE value="linked list remove formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked list remove formatting" />
+    <MESSAGE value="linked list update" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked list update" />
   </component>
 </project>
