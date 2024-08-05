@@ -26,3 +26,4 @@ def split(list):
     mid = len(list)//2
     left = list[:mid]
     right = list[mid:]
+
