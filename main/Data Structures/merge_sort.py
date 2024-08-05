@@ -23,7 +23,8 @@ def split(list):
     Returns two sublists - left and right
     """
 
-    mid = len(list)//2
+    mid = len(list)//2  # floor division
     left = list[:mid]
     right = list[mid:]
 
+    return left, right  # return two values at the same time
