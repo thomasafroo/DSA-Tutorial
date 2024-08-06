@@ -59,14 +59,6 @@
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
     </task>
-    <task id="LOCAL-00052" summary="linked_list.py">
-      <option name="closed" value="true" />
-      <created>1722580570084</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1722580570084</updated>
-    </task>
     <task id="LOCAL-00053" summary="linked_list.py mistake">
       <option name="closed" value="true" />
       <created>1722580586486</created>
@@ -451,7 +443,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722890747542</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="merge sort">
+      <option name="closed" value="true" />
+      <created>1722892022934</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1722892022934</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
