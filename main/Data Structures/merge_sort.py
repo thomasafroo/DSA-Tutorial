@@ -28,3 +28,5 @@ def split(list):
     right = list[mid:]
 
     return left, right  # return two values at the same time
+
+def merge(left, right):
