@@ -45,3 +45,4 @@ def merge(left, right):
             i+=1
         else:
             l.append(right[j])
+            j+=1
