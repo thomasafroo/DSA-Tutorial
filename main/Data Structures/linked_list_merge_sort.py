@@ -9,3 +9,7 @@ def merge_sort(linked_list):
     Returns a sorted linked list
 
     """
+    if linked_list.size() == 1:
+        return linked_list
+    elif linked_list.head is None:
+        return linked_list
