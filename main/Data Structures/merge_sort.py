@@ -46,3 +46,13 @@ def merge(left, right):
         else:
             l.append(right[j])
             j+=1
+
+    while i < len(left):
+        l.append(left[i])
+        i+=1
+
+    while j < len(right):
+        l.append(right[j])
+        j+=1
+
+alist = [54, 62, 93, 17, 77, 31, 44, 55, 20]
