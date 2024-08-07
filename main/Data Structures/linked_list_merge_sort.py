@@ -13,3 +13,5 @@ def merge_sort(linked_list):
         return linked_list
     elif linked_list.head is None:
         return linked_list
+
+    left_half, right_half = split(linked_list)
