@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="merge sort">
+    <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked_list_merge_sort.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Data Structures/merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Data Structures/merge_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Data Structures/linked_list_merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Data Structures/linked_list_merge_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -31,6 +34,7 @@
     &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
     &quot;Python.linear_search.executor&quot;: &quot;Run&quot;,
     &quot;Python.linked_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linked_list_merge_sort.executor&quot;: &quot;Run&quot;,
     &quot;Python.recursive_binary_search.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -58,118 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00053" summary="linked_list.py mistake">
-      <option name="closed" value="true" />
-      <created>1722580586486</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1722580586486</updated>
-    </task>
-    <task id="LOCAL-00054" summary="linked_list.py comment">
-      <option name="closed" value="true" />
-      <created>1722580705398</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1722580705398</updated>
-    </task>
-    <task id="LOCAL-00055" summary="linked_list.py comment">
-      <option name="closed" value="true" />
-      <created>1722580908139</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1722580908139</updated>
-    </task>
-    <task id="LOCAL-00056" summary="linked_list.py comment">
-      <option name="closed" value="true" />
-      <created>1722581053621</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581053621</updated>
-    </task>
-    <task id="LOCAL-00057" summary="linked_list.py">
-      <option name="closed" value="true" />
-      <created>1722581109109</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581109109</updated>
-    </task>
-    <task id="LOCAL-00058" summary="linked_list.py comment">
-      <option name="closed" value="true" />
-      <created>1722581171789</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581171789</updated>
-    </task>
-    <task id="LOCAL-00059" summary="linked_list.py formmating">
-      <option name="closed" value="true" />
-      <created>1722581184184</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581184184</updated>
-    </task>
-    <task id="LOCAL-00060" summary="linked_list.py">
-      <option name="closed" value="true" />
-      <created>1722581219088</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581219088</updated>
-    </task>
-    <task id="LOCAL-00061" summary="linked_list.py">
-      <option name="closed" value="true" />
-      <created>1722581310836</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581310836</updated>
-    </task>
-    <task id="LOCAL-00062" summary="linked_list.py size">
-      <option name="closed" value="true" />
-      <created>1722581342465</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581342465</updated>
-    </task>
-    <task id="LOCAL-00063" summary="linked_list.py size">
-      <option name="closed" value="true" />
-      <created>1722581371186</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581371186</updated>
-    </task>
-    <task id="LOCAL-00064" summary="linked_list.py size">
-      <option name="closed" value="true" />
-      <created>1722581405265</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581405265</updated>
-    </task>
-    <task id="LOCAL-00065" summary="linked_list.py comment">
-      <option name="closed" value="true" />
-      <created>1722581436986</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581436986</updated>
-    </task>
-    <task id="LOCAL-00066" summary="linked_list.py comment">
-      <option name="closed" value="true" />
-      <created>1722581478617</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1722581478617</updated>
     </task>
     <task id="LOCAL-00067" summary="linked_list.py comment">
       <option name="closed" value="true" />
@@ -451,12 +343,122 @@
       <option name="project" value="LOCAL" />
       <updated>1722892022934</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="merge sort">
+      <option name="closed" value="true" />
+      <created>1722981947741</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1722981947741</updated>
+    </task>
+    <task id="LOCAL-00103" summary="merge sort">
+      <option name="closed" value="true" />
+      <created>1722981982765</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1722981982765</updated>
+    </task>
+    <task id="LOCAL-00104" summary="merge sort">
+      <option name="closed" value="true" />
+      <created>1722982077291</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1722982077292</updated>
+    </task>
+    <task id="LOCAL-00105" summary="merge sort">
+      <option name="closed" value="true" />
+      <created>1722982085840</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1722982085840</updated>
+    </task>
+    <task id="LOCAL-00106" summary="merge sort">
+      <option name="closed" value="true" />
+      <created>1722997146294</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1722997146295</updated>
+    </task>
+    <task id="LOCAL-00107" summary="new linked_list_merge_sort.py">
+      <option name="closed" value="true" />
+      <created>1722997918231</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1722997918231</updated>
+    </task>
+    <task id="LOCAL-00108" summary="new linked_list_merge_sort.py">
+      <option name="closed" value="true" />
+      <created>1722998147345</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1722998147346</updated>
+    </task>
+    <task id="LOCAL-00109" summary="linked_list_merge_sort.py">
+      <option name="closed" value="true" />
+      <created>1722998288466</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1722998288466</updated>
+    </task>
+    <task id="LOCAL-00110" summary="linked_list_merge_sort.py">
+      <option name="closed" value="true" />
+      <created>1722998566994</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1722998566994</updated>
+    </task>
+    <task id="LOCAL-00111" summary="linked_list_merge_sort.py">
+      <option name="closed" value="true" />
+      <created>1722998698912</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1722998698912</updated>
+    </task>
+    <task id="LOCAL-00112" summary="linked_list_merge_sort.py">
+      <option name="closed" value="true" />
+      <created>1722998861586</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1722998861586</updated>
+    </task>
+    <task id="LOCAL-00113" summary="linked_list_merge_sort.py">
+      <option name="closed" value="true" />
+      <created>1722999266184</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1722999266184</updated>
+    </task>
+    <task id="LOCAL-00114" summary="linked_list_merge_sort.py">
+      <option name="closed" value="true" />
+      <created>1722999463697</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1722999463697</updated>
+    </task>
+    <task id="LOCAL-00115" summary="linked_list_merge_sort.py">
+      <option name="closed" value="true" />
+      <created>1723011724899</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1723011724899</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="formatting" />
-    <MESSAGE value="recursive_binary_search.py" />
     <MESSAGE value="arrays" />
     <MESSAGE value="accessing array elements" />
     <MESSAGE value="linked_list.py mistake" />
@@ -480,6 +482,8 @@
     <MESSAGE value="linked list remove formatting" />
     <MESSAGE value="linked list update" />
     <MESSAGE value="merge sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge sort" />
+    <MESSAGE value="new linked_list_merge_sort.py" />
+    <MESSAGE value="linked_list_merge_sort.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked_list_merge_sort.py" />
   </component>
 </project>
