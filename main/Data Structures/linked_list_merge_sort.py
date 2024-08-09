@@ -41,4 +41,3 @@ def split(linked_list):
         right_half = LinkedList()
         right_half.head = mid_node.next_node
 
-
