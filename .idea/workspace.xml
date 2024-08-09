@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="486cb956-2b70-42ca-98d8-de386f52cbb1" name="Changes" comment="linked_list_merge_sort.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/Data Structures/linked_list_merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Data Structures/linked_list_merge_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,14 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722277189348</updated>
-    </task>
-    <task id="LOCAL-00070" summary="add method">
-      <option name="closed" value="true" />
-      <created>1722582272079</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1722582272079</updated>
     </task>
     <task id="LOCAL-00071" summary="arrays.py">
       <option name="closed" value="true" />
@@ -454,7 +447,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723223334308</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="linked_list_merge_sort.py">
+      <option name="closed" value="true" />
+      <created>1723223911357</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1723223911357</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
