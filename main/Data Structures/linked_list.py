@@ -6,7 +6,7 @@ class Node:
     data = None
     next_node = None
 
-    def __init__(self, data):
+    def __init__(self, data): # constructor
         self.data = data
 
     def __repr__(self):
