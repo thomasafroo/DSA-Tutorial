@@ -1,5 +1,5 @@
 class Node:
-    """
+    """ docstring
     An object for storing a single node of a linked list.
     Models two attributes - data and the link to the next node in the list
     """
